@@ -1,3 +1,3 @@
-module github.com/Yotaokta/go_say_hello/v2
+module github.com/Yotaokta/go_say_hello/
 
 go 1.22.1
