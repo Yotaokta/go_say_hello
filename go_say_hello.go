@@ -1,5 +1,5 @@
 package go_say_hello
 
-func HelloDunia() string {
+func HelloDuniaLagi() string {
 	return "Hallo Dunia"
 }
